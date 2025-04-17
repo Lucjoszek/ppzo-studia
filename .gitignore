@@ -1,0 +1,15 @@
+# C#
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Systemowe
+.DS_Store
+Thumbs.db
